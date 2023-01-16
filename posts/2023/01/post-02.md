@@ -1,6 +1,10 @@
 ---
 title: Lorem Ipsumn II
 date: 2023-01-02
+tags:
+  - test
+  - 2023
+  - markdown
 ---
 
 Ullamco et nostrud magna commodo nostrud occaecat quis pariatur id ipsum. Ipsum

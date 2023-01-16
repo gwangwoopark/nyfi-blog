@@ -17,6 +17,8 @@ export type Post = {
   title: string
   /** The date of the post */
   date: IsoDateTimeString
+  /** The tags and kewords of the post */
+  tags: string[]
   /** Markdown file body */
   body: Markdown
   url: string

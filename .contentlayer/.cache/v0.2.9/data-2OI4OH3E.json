@@ -4,6 +4,11 @@
       "document": {
         "title": "Lorem Ipsumn I",
         "date": "2023-01-01T00:00:00.000Z",
+        "tags": [
+          "lorem",
+          2023,
+          "markdown"
+        ],
         "body": {
           "raw": "\nUllamco et nostrud magna commodo nostrud occaecat quis pariatur id ipsum. Ipsum\nconsequat enim id excepteur consequat nostrud esse esse fugiat dolore.\nReprehenderit occaecat exercitation non cupidatat in eiusmod laborum ex eu\nfugiat aute culpa pariatur. Irure elit proident consequat veniam minim ipsum ex\npariatur.\n\nMollit nisi cillum exercitation minim officia velit laborum non Lorem\nadipisicing dolore. Labore commodo consectetur commodo velit adipisicing irure\ndolore dolor reprehenderit aliquip. Reprehenderit cillum mollit eiusmod\nexcepteur elit ipsum aute pariatur in. Cupidatat ex culpa velit culpa ad non\nlabore exercitation irure laborum.\n",
           "html": "<p>Ullamco et nostrud magna commodo nostrud occaecat quis pariatur id ipsum. Ipsum\nconsequat enim id excepteur consequat nostrud esse esse fugiat dolore.\nReprehenderit occaecat exercitation non cupidatat in eiusmod laborum ex eu\nfugiat aute culpa pariatur. Irure elit proident consequat veniam minim ipsum ex\npariatur.</p>\n<p>Mollit nisi cillum exercitation minim officia velit laborum non Lorem\nadipisicing dolore. Labore commodo consectetur commodo velit adipisicing irure\ndolore dolor reprehenderit aliquip. Reprehenderit cillum mollit eiusmod\nexcepteur elit ipsum aute pariatur in. Cupidatat ex culpa velit culpa ad non\nlabore exercitation irure laborum.</p>"
@@ -19,7 +24,7 @@
         "type": "Post",
         "url": "/posts/Lorem-Ipsumn-I"
       },
-      "documentHash": "1673879810205",
+      "documentHash": "1673880651999",
       "hasWarnings": false,
       "documentTypeName": "Post"
     },
@@ -27,6 +32,11 @@
       "document": {
         "title": "Lorem Ipsumn II",
         "date": "2023-01-02T00:00:00.000Z",
+        "tags": [
+          "test",
+          2023,
+          "markdown"
+        ],
         "body": {
           "raw": "\nUllamco et nostrud magna commodo nostrud occaecat quis pariatur id ipsum. Ipsum\nconsequat enim id excepteur consequat nostrud esse esse fugiat dolore.\nReprehenderit occaecat exercitation non cupidatat in eiusmod laborum ex eu\nfugiat aute culpa pariatur. Irure elit proident consequat veniam minim ipsum ex\npariatur.\n\nMollit nisi cillum exercitation minim officia velit laborum non Lorem\nadipisicing dolore. Labore commodo consectetur commodo velit adipisicing irure\ndolore dolor reprehenderit aliquip. Reprehenderit cillum mollit eiusmod\nexcepteur elit ipsum aute pariatur in. Cupidatat ex culpa velit culpa ad non\nlabore exercitation irure laborum.\n\nUllamco et nostrud magna commodo nostrud occaecat quis pariatur id ipsum. Ipsum\nconsequat enim id excepteur consequat nostrud esse esse fugiat dolore.\nReprehenderit occaecat exercitation non cupidatat in eiusmod laborum ex eu\nfugiat aute culpa pariatur. Irure elit proident consequat veniam minim ipsum ex\npariatur.\n\nMollit nisi cillum exercitation minim officia velit laborum non Lorem\nadipisicing dolore. Labore commodo consectetur commodo velit adipisicing irure\ndolore dolor reprehenderit aliquip. Reprehenderit cillum mollit eiusmod\nexcepteur elit ipsum aute pariatur in. Cupidatat ex culpa velit culpa ad non\nlabore exercitation irure laborum.\n",
           "html": "<p>Ullamco et nostrud magna commodo nostrud occaecat quis pariatur id ipsum. Ipsum\nconsequat enim id excepteur consequat nostrud esse esse fugiat dolore.\nReprehenderit occaecat exercitation non cupidatat in eiusmod laborum ex eu\nfugiat aute culpa pariatur. Irure elit proident consequat veniam minim ipsum ex\npariatur.</p>\n<p>Mollit nisi cillum exercitation minim officia velit laborum non Lorem\nadipisicing dolore. Labore commodo consectetur commodo velit adipisicing irure\ndolore dolor reprehenderit aliquip. Reprehenderit cillum mollit eiusmod\nexcepteur elit ipsum aute pariatur in. Cupidatat ex culpa velit culpa ad non\nlabore exercitation irure laborum.</p>\n<p>Ullamco et nostrud magna commodo nostrud occaecat quis pariatur id ipsum. Ipsum\nconsequat enim id excepteur consequat nostrud esse esse fugiat dolore.\nReprehenderit occaecat exercitation non cupidatat in eiusmod laborum ex eu\nfugiat aute culpa pariatur. Irure elit proident consequat veniam minim ipsum ex\npariatur.</p>\n<p>Mollit nisi cillum exercitation minim officia velit laborum non Lorem\nadipisicing dolore. Labore commodo consectetur commodo velit adipisicing irure\ndolore dolor reprehenderit aliquip. Reprehenderit cillum mollit eiusmod\nexcepteur elit ipsum aute pariatur in. Cupidatat ex culpa velit culpa ad non\nlabore exercitation irure laborum.</p>"
@@ -42,7 +52,7 @@
         "type": "Post",
         "url": "/posts/Lorem-Ipsumn-II"
       },
-      "documentHash": "1673683909759",
+      "documentHash": "1673880662261",
       "hasWarnings": false,
       "documentTypeName": "Post"
     },
@@ -50,6 +60,11 @@
       "document": {
         "title": "Lorem Ipsumn III",
         "date": "2023-01-03T00:00:00.000Z",
+        "tags": [
+          "post",
+          2023,
+          "text"
+        ],
         "body": {
           "raw": "\nUllamco et nostrud magna commodo nostrud occaecat quis pariatur id ipsum. Ipsum\nconsequat enim id excepteur consequat nostrud esse esse fugiat dolore.\nReprehenderit occaecat exercitation non cupidatat in eiusmod laborum ex eu\nfugiat aute culpa pariatur. Irure elit proident consequat veniam minim ipsum ex\npariatur.\n\nMollit nisi cillum exercitation minim officia velit laborum non Lorem\nadipisicing dolore. Labore commodo consectetur commodo velit adipisicing irure\ndolore dolor reprehenderit aliquip. Reprehenderit cillum mollit eiusmod\nexcepteur elit ipsum aute pariatur in. Cupidatat ex culpa velit culpa ad non\nlabore exercitation irure laborum.\n\nUllamco et nostrud magna commodo nostrud occaecat quis pariatur id ipsum. Ipsum\nconsequat enim id excepteur consequat nostrud esse esse fugiat dolore.\nReprehenderit occaecat exercitation non cupidatat in eiusmod laborum ex eu\nfugiat aute culpa pariatur. Irure elit proident consequat veniam minim ipsum ex\npariatur.\n\nMollit nisi cillum exercitation minim officia velit laborum non Lorem\nadipisicing dolore. Labore commodo consectetur commodo velit adipisicing irure\ndolore dolor reprehenderit aliquip. Reprehenderit cillum mollit eiusmod\nexcepteur elit ipsum aute pariatur in. Cupidatat ex culpa velit culpa ad non\nlabore exercitation irure laborum.\n\nUllamco et nostrud magna commodo nostrud occaecat quis pariatur id ipsum. Ipsum\nconsequat enim id excepteur consequat nostrud esse esse fugiat dolore.\nReprehenderit occaecat exercitation non cupidatat in eiusmod laborum ex eu\nfugiat aute culpa pariatur. Irure elit proident consequat veniam minim ipsum ex\npariatur.\n\nMollit nisi cillum exercitation minim officia velit laborum non Lorem\nadipisicing dolore. Labore commodo consectetur commodo velit adipisicing irure\ndolore dolor reprehenderit aliquip. Reprehenderit cillum mollit eiusmod\nexcepteur elit ipsum aute pariatur in. Cupidatat ex culpa velit culpa ad non\nlabore exercitation irure laborum.\n",
           "html": "<p>Ullamco et nostrud magna commodo nostrud occaecat quis pariatur id ipsum. Ipsum\nconsequat enim id excepteur consequat nostrud esse esse fugiat dolore.\nReprehenderit occaecat exercitation non cupidatat in eiusmod laborum ex eu\nfugiat aute culpa pariatur. Irure elit proident consequat veniam minim ipsum ex\npariatur.</p>\n<p>Mollit nisi cillum exercitation minim officia velit laborum non Lorem\nadipisicing dolore. Labore commodo consectetur commodo velit adipisicing irure\ndolore dolor reprehenderit aliquip. Reprehenderit cillum mollit eiusmod\nexcepteur elit ipsum aute pariatur in. Cupidatat ex culpa velit culpa ad non\nlabore exercitation irure laborum.</p>\n<p>Ullamco et nostrud magna commodo nostrud occaecat quis pariatur id ipsum. Ipsum\nconsequat enim id excepteur consequat nostrud esse esse fugiat dolore.\nReprehenderit occaecat exercitation non cupidatat in eiusmod laborum ex eu\nfugiat aute culpa pariatur. Irure elit proident consequat veniam minim ipsum ex\npariatur.</p>\n<p>Mollit nisi cillum exercitation minim officia velit laborum non Lorem\nadipisicing dolore. Labore commodo consectetur commodo velit adipisicing irure\ndolore dolor reprehenderit aliquip. Reprehenderit cillum mollit eiusmod\nexcepteur elit ipsum aute pariatur in. Cupidatat ex culpa velit culpa ad non\nlabore exercitation irure laborum.</p>\n<p>Ullamco et nostrud magna commodo nostrud occaecat quis pariatur id ipsum. Ipsum\nconsequat enim id excepteur consequat nostrud esse esse fugiat dolore.\nReprehenderit occaecat exercitation non cupidatat in eiusmod laborum ex eu\nfugiat aute culpa pariatur. Irure elit proident consequat veniam minim ipsum ex\npariatur.</p>\n<p>Mollit nisi cillum exercitation minim officia velit laborum non Lorem\nadipisicing dolore. Labore commodo consectetur commodo velit adipisicing irure\ndolore dolor reprehenderit aliquip. Reprehenderit cillum mollit eiusmod\nexcepteur elit ipsum aute pariatur in. Cupidatat ex culpa velit culpa ad non\nlabore exercitation irure laborum.</p>"
@@ -65,7 +80,7 @@
         "type": "Post",
         "url": "/posts/Lorem-Ipsumn-III"
       },
-      "documentHash": "1673683917224",
+      "documentHash": "1673880684073",
       "hasWarnings": false,
       "documentTypeName": "Post"
     }

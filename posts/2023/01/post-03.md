@@ -1,6 +1,10 @@
 ---
 title: Lorem Ipsumn III
 date: 2023-01-03
+tags:
+  - post
+  - 2023
+  - text
 ---
 
 Ullamco et nostrud magna commodo nostrud occaecat quis pariatur id ipsum. Ipsum

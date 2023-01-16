@@ -1,6 +1,10 @@
 ---
 title: Lorem Ipsumn I
 date: 2023-01-01
+tags:
+  - lorem
+  - 2023
+  - markdown
 ---
 
 Ullamco et nostrud magna commodo nostrud occaecat quis pariatur id ipsum. Ipsum

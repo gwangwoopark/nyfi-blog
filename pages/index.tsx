@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Link from "next/link";
 import { compareDesc, format, parseISO } from "date-fns";
-import { allPosts, Post } from "contentlayer/generated";
+import { allPosts } from "contentlayer/generated";
 
 type PostMetadata = {
   _id: string;
